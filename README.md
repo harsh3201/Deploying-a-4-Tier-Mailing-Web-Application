@@ -341,7 +341,7 @@ In this runbook, we will implement the PHP Mailing deployment with multi-tier ar
     - Click `CREATE BUCKET`
 
 - Navigate to the GitHub Project Repository, Download the project App Stack and Upload it to the Bucket
-    - Click Here: [https://github.com/awanmbandi/aws-real-world-projects](https://github.com/harsh3201/Deploying-a-4-Tier-Mailing-Web-Application)
+    - Click Here: [(https://github.com/harsh3201/Deploying-a-4-Tier-Mailing-Web-Application](https://github.com/harsh3201/Deploying-a-4-Tier-Mailing-Web-Application)
         - Make sure you're on `four-tier-mailing-app-project` branch
         - Click on the `ZIP file` name: `app-db-configs.zip`
         - Click `View Raw` or `Download` to download the application configs to your local
